@@ -44,7 +44,7 @@ module.exports = {
   // 各种文字内容
   text: {
     // 小程序名
-    app_name: "中大猫谱",
+    app_name: "喵屋校园",
     // 首页，pages/genealogy/genealogy
     genealogy: {
       share_tip: "发现身边校园猫咪",
@@ -114,7 +114,7 @@ module.exports = {
       ad_success_tip: "多谢喵(ฅ'ω'ฅ)!",
       ad_fail_tip: "没播完喵...",
       reward_tip_title: "投喂罐头",
-      reward_tip: "您的投喂及广告收入将用作猫猫救助，每月的收支都会在“笃行志愿服务队”公众号进行公开，感谢您对中大流浪猫的帮助与支持！\n喵(^･ｪ･^)",
+      reward_tip: "您的投喂及广告收入将用作猫猫救助，每月的收支都会在猫协公众号进行公开，感谢您对石大流浪猫的帮助与支持！\n喵(^･ｪ･^)",
       reward_count_tip: "* 每月统计一次，在公众号公示，多谢晒（鞠躬）",
       reward_title: "爱心捐款",
     },
@@ -133,12 +133,12 @@ module.exports = {
       new_cat_tip_title: "新的猫猫",
       new_cat_tip: "提交猫谱中没有的猫猫信息，给猫猫上户口~",
       contract_tip_title: "更多联系",
-      contract_tip: "有关猫猫信息添加、小程序的建议、照片维权、猫猫领养咨询等事项，请关注笃行志愿服务队公众号后留言，或邮件：dxzyfwd@163.com",
+      contract_tip: "有关猫猫信息添加、小程序的建议、照片维权、猫猫领养咨询等事项，请关注猫协公众号后留言，或邮件：751490663@qq.com",
     },
     // 开发团队页，pages/info/devTeam/devTeam
     dev_team: {
       share_tip: "开发团队",
-      team: "程序开发：渔政、蓝卷、XD、zJ、ArcherJo、yw\n资料维护：Lo\n初期资料整理：hehe、玥琪、大米\n以及各校区猫群的小伙伴~\n非常欢迎新朋友加入设计开发哇~！",
+      team: "程序开发：李俊航、刘燕敏\n初期资料整理：王净文清、龚文欣、唐国庆\n以及原猫协的小伙伴~",
     },
     // 识猫页，pages/recognize/recognize
     recognize: {
