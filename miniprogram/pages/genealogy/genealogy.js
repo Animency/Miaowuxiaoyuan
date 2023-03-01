@@ -151,8 +151,8 @@ Page({
       category: []
     };
     area_item.category.push({
-      name: '全部校区',
-      items: [], // '全部校区'特殊处理
+      name: '主校区',
+      items: [], // '主校区'特殊处理
       all_active: true
     });
     // 用个object当作字典，把area分下类
