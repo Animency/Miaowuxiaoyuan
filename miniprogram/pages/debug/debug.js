@@ -95,7 +95,7 @@ Page({
         let res = await wx.cloud.callFunction({
           name: "imProcess",
           data: {
-            app_name: "中大猫谱",
+            app_name: "喵屋校园",
           }
         });
         console.log(res);

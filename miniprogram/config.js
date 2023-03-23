@@ -138,7 +138,7 @@ module.exports = {
     // 开发团队页，pages/info/devTeam/devTeam
     dev_team: {
       share_tip: "开发团队",
-      team: "程序开发：李俊航、刘燕敏\n初期资料整理：王净文清、龚文欣、唐国庆\n以及原猫协的小伙伴~",
+      team: "石大猫协的小伙伴~",
     },
     // 识猫页，pages/recognize/recognize
     recognize: {
